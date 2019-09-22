@@ -9,6 +9,11 @@
 ## Changelog
 
 
+### Version 5.4 (22-09-2019)
+  * Improved Searching Algorithm.
+  * Fixed Bugs and Underhood Improvements
+
+
 ### Version 5.0 (05-09-2019)
   * Fixed network error
   * Fixed crash when open without Network Connection
