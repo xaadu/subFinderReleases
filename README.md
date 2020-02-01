@@ -9,6 +9,10 @@
 ## Changelog
 
 
+### Version 5.6 (01-02-2020)
+  * Fixed Fatal Error Dure to Admnistrator Rights
+  * Underhood Improvements
+
 ### Version 5.4 (22-09-2019)
   * Improved Searching Algorithm.
   * Fixed Bugs and Underhood Improvements
